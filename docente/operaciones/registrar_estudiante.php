@@ -37,7 +37,7 @@ if ($conteo > 0) {
 				</script>
 			";
 	}else{
-	$pass = $dni."@huanta";
+	$pass = $dni;
 	$pass_secure = password_hash($pass, PASSWORD_DEFAULT);
 
 	$insertar = "INSERT INTO estudiante (dni, apellidos_nombres, id_genero, fecha_nac, direccion, correo, telefono, anio_ingreso, id_programa_estudios, id_semestre, seccion, turno, discapacidad, password, reset_password, token_password) VALUES ('$dni','$nom_ap','$genero', '$fecha_nac', '$direccion', '$email', '$telefono', '$anio_ingreso', '$carrera', '$semestre', '$seccion', '$turno', '$discapacidad', '$pass_secure', 0, '')";
