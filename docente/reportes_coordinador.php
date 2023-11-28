@@ -409,7 +409,6 @@ if (!verificar_sesion($conexion)) {
 
         <!-- FIN MODAL PRIMEROS PUESTOS-->
    
-        Aún en desarrollo
           
 
         </div>
