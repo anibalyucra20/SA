@@ -62,7 +62,7 @@ if ($enviar) {
     //enviamos correo
 
 
-    $asunto = "Cambio de Contraseña I.E.S.T.P. HUANTA";
+    $asunto = "Cambio de Contraseña I.E.S.T.P. AYACUCHO";
     //Create an instance; passing `true` enables exceptions
     $mail = new PHPMailer(true);
 
@@ -109,7 +109,7 @@ if ($enviar) {
                             <p style="text-align: center; font-size: 1.0rem; color: #f1f1f1; text-shadow: 2px 2px 2px #cfcfcf; ">'.$r_b_datos_institucion['nombre_institucion'].'</p>
                         </div>
                         <div>
-                            <h2 style="text-align:center;">SISPA (Sistema de Portafolio Académico)</h2>
+                            <h2 style="text-align:center;">SA (Sistema Académico)</h2>
                             <h3 style="text-align:center; color: #3c4858;">CAMBIO DE CONTRASEÑA</h3>
                             <p style="font-size:1.0rem; color: #2A2C2B; margin-top: 2em; margin-bottom: 2em; margin-left: 1.5em;">
                     

@@ -56,16 +56,14 @@
               <div class="clearfix"></div>
 
               <div class="separator">
-                <!--<p class="change_link">¿Eres nuevo?
-                  <a href="crearcuenta.php" class="to_register"> Crear Cuenta </a>
-                </p>-->
+                
 
                 <div class="clearfix"></div>
                 <br />
 
                 <div>
-                  <h1>I.E.S.T.P. "HUANTA"</h1>
-                  <p>Bienvenido a la plataforma de Portafolio Docente, Inicie Sesion para acceder</p>
+                  <h1>I.E.S.T.P. "AYACUCHO"</h1>
+                  <p>Bienvenido al Sistema Académico, Inicie Sesion para acceder</p>
                 </div>
               </div>
             </form>

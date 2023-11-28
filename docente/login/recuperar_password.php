@@ -83,8 +83,8 @@ if ($mostrar) {
               <br />
 
               <div>
-                <h1>I.E.S.T.P. "HUANTA"</h1>
-                <p>Bienvenido a la Biblioteca Virtual, Inicie Sesion para acceder a los materiales de lectura</p>
+                <h1>I.E.S.T.P. "AYACUCHO"</h1>
+                <p>Bienvenido al Sistema Académico, Inicie Sesion para acceder</p>
               </div>
             </div>
           </form>

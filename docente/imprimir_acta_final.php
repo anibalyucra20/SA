@@ -353,7 +353,7 @@ if (!($mostrar_archivo)) {
         <tr>
             <td width="30%"><font size="' . $text_size . '"><b>INSTITUCIÓN EDUCATIVA</b></font></td>
             <td width="5%">:</td>
-            <td width="65%"><font size="' . $text_size . '">INSTITUTO DE EDUCACIÓN SUPERIOR TECNOLÓGICO PÚBLICO HUANTA</font></td>
+            <td width="65%"><font size="' . $text_size . '">INSTITUTO DE EDUCACIÓN SUPERIOR TECNOLÓGICO PÚBLICO AYACUCHO</font></td>
         </tr>
         <tr>
             <td width="30%"><font size="' . $text_size . '"><b>PROGRAMA DE ESTUDIOS</b></font></td>
@@ -418,7 +418,7 @@ if (!($mostrar_archivo)) {
         <table border="0" cellspacing="0" cellpadding="0.5">  
         <tr>
             <th width="50%"></th>
-            <th align="right">Huanta, ' . $fechaaa . '</th>
+            <th align="right">Ayacucho, ' . $fechaaa . '</th>
         </tr>
         <tr>
             <td colspan="2" align="center"><br><br><br><br><br><br><br><br>...............................................<br>Docente</td>

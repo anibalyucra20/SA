@@ -56,8 +56,6 @@ require '../fpdf185/fpdf.php';
 			$this->SetY(-15);
 			$this->Image('../img/pie.png', 15, 278, 181);
 			$this->SetFont('Arial','B', 10);
-            /*$this->SetFillColor(147,178,72);
-			$this->Cell(175,10, utf8_decode('IESTPúb "HUANTA" - UNIDAD ACADÉMICA'),1,0,'L',true);*/
             $this->Cell(0,10, 'Pag. '.$this->PageNo().'             ',0,0,'R' );
             //$this->Cell(0,10, 'Pag. '.$this->PageNo().'/{nb}',0,0,'R' );
 		}

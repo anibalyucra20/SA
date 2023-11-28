@@ -158,7 +158,7 @@ if (!($mostrar_archivo)) {
         </tr>
         <tr>
             <br>
-            <td colspan="3" align="center"><b>INSTITUTO DE EDUCACIÓN SUPERIOR TECNOLÓGICO PÚBLICO HUANTA</b></td>
+            <td colspan="3" align="center"><b>INSTITUTO DE EDUCACIÓN SUPERIOR TECNOLÓGICO PÚBLICO AYACUCHO</b></td>
         </tr>
         
         <tr>

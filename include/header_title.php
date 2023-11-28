@@ -1,1 +1,1 @@
- | SisPA | IESTP HUANTA
+ | SA | IESTP "AYACUCHO"

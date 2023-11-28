@@ -56,8 +56,7 @@
                 <br />
 
                 <div>
-                  <h1>I.E.S.T.P. "HUANTA"</h1>
-                  <!--<p>Bienvenido a la Biblioteca Virtual, Inicie Sesion para acceder a los materiales de lectura</p>-->
+                  <h1>I.E.S.T.P. "AYACUCHO"</h1>
                 </div>
               </div>
             </form>

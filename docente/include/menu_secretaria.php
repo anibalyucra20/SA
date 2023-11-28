@@ -79,24 +79,7 @@
               </div>
 
             </div>
-            <!-- /sidebar menu -->
-
-            <!-- /menu footer buttons 
-            <div class="sidebar-footer hidden-small">
-              <a data-toggle="tooltip" data-placement="top" title="Configuración" href="sistema.php">
-                <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
-              </a>
-              <a data-toggle="tooltip" data-placement="top" title="">
-                <span class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>
-              </a>
-              <a data-toggle="tooltip" data-placement="top" title="">
-                <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
-              </a>
-              <a data-toggle="tooltip" data-placement="top" title="Cerrar Sesión" href="../../include/cerrar_sesion.php">
-                <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
-              </a>
-            </div>
-            /menu footer buttons -->
+            
   </div>
 </div>
 <!-- top navigation -->

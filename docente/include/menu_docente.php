@@ -36,11 +36,7 @@
               <li class="sub_menu"><a href="calificaciones_unidades_didacticas.php">Unidades Didácticas</a></li>
             </ul>
           </li>
-          <li><a><i class="fa fa-graduation-cap"></i> Tutoría <span class="fa fa-chevron-down"></span></a>
-            <ul class="nav child_menu">
-              <li class="sub_menu"><a href="tutoria.php">Mi tutoría</a></li>
-            </ul>
-          </li>
+          
         </ul>
       </div>
     </div>

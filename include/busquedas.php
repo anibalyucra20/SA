@@ -8,7 +8,6 @@ function buscarDatosSistema($conexion){
 	$sql = "SELECT * FROM sistema WHERE id=1";
 	return mysqli_query($conexion, $sql);
 }
-
 function buscarPresentePeriodoAcad($conexion){
 	$sql = "SELECT * FROM presente_periodo_acad ORDER BY id LIMIT 1";
 	return mysqli_query($conexion, $sql);
@@ -49,7 +48,6 @@ function buscarEstudianteByApellidosNombres_like($conexion,$pe,$dato){
 	$sql = "SELECT * FROM estudiante WHERE apellidos_nombres LIKE '%$dato%' AND id_programa_estudios='$pe'";
 	return mysqli_query($conexion, $sql);
 }
-
 function buscarDocente($conexion){
 	$sql = "SELECT * FROM docente";
 	return mysqli_query($conexion, $sql);

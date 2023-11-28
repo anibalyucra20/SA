@@ -37,10 +37,7 @@
                       <li class="sub_menu"><a href="ver_calificaciones.php">Calificaciones</a></li>
                     </ul>
                   </li>
-                  <li><a href="tutoria.php"><i class="fa fa-graduation-cap"></i> Tutoría</a>
-                  </li>
-                  <li><a href="ficha_estudiante.php"><i class="fa fa-graduation-cap"></i> Ficha Estudiante</a>
-                  </li>
+                  
                 </ul>
               </div>
             </div>

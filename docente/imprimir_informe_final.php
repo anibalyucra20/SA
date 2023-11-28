@@ -535,7 +535,7 @@ if (!($mostrar_archivo)) {
         <table border="0" cellspacing="0" cellpadding="0.5">  
         <tr>
             <th width="50%"></th>
-            <th align="right">Huanta, ' . $fechaaa . '</th>
+            <th align="right">Ayacucho, ' . $fechaaa . '</th>
         </tr>
         <tr>
             <td colspan="2" align="center"><br><br><br><br><br>...............................................<br>Docente</td>

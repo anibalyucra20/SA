@@ -542,7 +542,7 @@ if (!($mostrar_archivo)) {
         <table border="0" cellspacing="0" cellpadding="0.5">  
         <tr>
             <th width="75%"></th>
-            <th >Huanta, ' . $fechaaa . '</th>
+            <th >Ayacucho, ' . $fechaaa . '</th>
         </tr>
         </table>    
       ';

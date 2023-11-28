@@ -57,8 +57,8 @@
                 <br />
 
                 <div>
-                  <h1>I.E.S.T.P. "HUANTA"</h1>
-                  <p>Bienvenido a la Sistema de portafolio docente</p>
+                  <h1>I.E.S.T.P. "AYACUCHO"</h1>
+                  <p>Bienvenido a la Sistema Académico</p>
                 </div>
               </div>
             </form>

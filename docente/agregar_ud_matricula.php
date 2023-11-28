@@ -17,7 +17,7 @@ if (!verificar_sesion($conexion)) {
 $id_mat = $_GET['data'];
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="Content-Language" content="es-ES">
